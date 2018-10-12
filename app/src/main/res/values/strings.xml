@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SocialContacts</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Search_Menu_Title">Search</string>
+    <string name="Info_Menu_Titel">My Info</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello SocialBrothers</string>
+    <string name="New_Contact_Hint_Phone">Phonenumber</string>
+    <string name="New_Contact_Hint_Email">Email</string>
+    <string name="New_Contact_Hint_Name">Name</string>
+    <string name="New_Contact_Desc_ProfilePicture">Profile Picture</string>
+    <string name="New_Contact_SaveButton">Save contact</string>
+    <string name="My_Info_Motivation" translatable="false">Door het gevoel bij binnenkomst, de sfeer, het jonge team, het kennismakingsgesprek, de eerste indruk, Android development en jullie slogan \nben ik er van overtuigd, dat ik tijdens mijn stage veel van jullie kan leren en dat ik zelf een bijdrage kan leveren aan jullie resultaten.\n</string>
+    <string name="error_empty_string">Field must not be empty</string>
+    <string name="error_not_valid_email">Not a valid Email Adress</string>
+    <string name="error_not_valid_phone">Not a valid phonenumber</string>
+    <string name="Search_hint">Search...</string>
+    <string name="quoteError">Could not fetch GET quote</string>
+    <string name="my_info_motivation_title">Motivation</string>
+    <string name="menu_item_back">Back</string>
+</resources>

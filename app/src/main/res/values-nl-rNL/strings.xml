@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialContacts</string>
+    <string name="action_settings">Opties</string>
+    <string name="Search_Menu_Title">Zoeken</string>
+    <string name="Info_Menu_Titel">Mijn info</string>
+    <string name="New_Contact_Hint_Phone">Telefoon nummer</string>
+    <string name="New_Contact_Hint_Email">E-mail</string>
+    <string name="New_Contact_Hint_Name">Naam</string>
+    <string name="New_Contact_Desc_ProfilePicture">Profiel afbeelding</string>
+    <string name="New_Contact_SaveButton">Sla contact op</string>
+    <string name="error_empty_string">Feld mag niet leeg zijn</string>
+    <string name="error_not_valid_email">Dit mail adress klopt niet</string>
+    <string name="error_not_valid_phone">"Dit telefoon nummer klopt niet "</string>
+    <string name="Search_hint">Zoeken...</string>
+    <string name="quoteError">Kon quote niet ophalen</string>
+    <string name="my_info_motivation_title">Motivatie</string>
+    <string name="menu_item_back">Terug</string>
+    <string name="hello_blank_fragment" translatable="false">Hallo SocialBrothers</string>
+</resources>
