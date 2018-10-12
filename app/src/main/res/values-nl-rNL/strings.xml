@@ -17,4 +17,5 @@
     <string name="my_info_motivation_title">Motivatie</string>
     <string name="menu_item_back">Terug</string>
     <string name="hello_blank_fragment" translatable="false">Hallo SocialBrothers</string>
+    <string name="my_profile_empty_quote">Quote</string>
 </resources>

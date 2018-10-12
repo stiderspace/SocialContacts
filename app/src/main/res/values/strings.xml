@@ -20,4 +20,8 @@
     <string name="quoteError">Could not fetch GET quote</string>
     <string name="my_info_motivation_title">Motivation</string>
     <string name="menu_item_back">Back</string>
+    <string name="my_name" translatable="false">Bart Sparrius</string>
+    <string name="my_email" translatable="false">Bart.Sparrius@gmail.com</string>
+    <string name="my_phonenumber" translatable="false">+31611156615</string>
+    <string name="my_profile_empty_quote" >Quote</string>
 </resources>
